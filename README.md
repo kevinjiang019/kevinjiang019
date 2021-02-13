@@ -52,7 +52,6 @@ if __name__ == "__main__":
 
 
 </details>  
-
 <summary>Music.py</summary>
 
   <!---
