@@ -11,8 +11,7 @@
 I'm a student at Columbia University, studying Econ-Math and Computer Science. 
 My current research interests are complex networks, wealth inequality, and algorithimic trading,
 pretty much anything in FinTech! On campus, I'm involved with the Columbia Daily Spectator, making 
-money moves for the newspaper, or Columbia Quant Group, discussing financial algorithims as a front 
-for poker. 
+money moves for the newspaper, or Columbia Quant Group, discussing financial algorithims and poker. 
 
 <details>
 <summary>About Me.py</summary>
@@ -33,9 +32,9 @@ def main():
 
 def getBio():
     return PB.Bio:
-        "Free time:"               "You will often find me working on personal projects[below], playing poker, or exploring coffee shops of NYC",
-        "Coding Languages:"        "Python, Java, R, and Excel",
-        "Socials:"                 "Please Contact me via email to set up a time! \
+        "Free time:"              "You will often find me working on personal projects[below], playing poker, or exploring coffee shops of NYC",
+        "Coding Languages:"       "Python, Java, R, and Excel",
+        "Socials:"                "Please Contact me via email to set up a time! \
 ``` 
 <p align = "middle">
 <a href="https://github.com/kevinjiang019?tab=projects" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/kevinjiang019?tab=projects" alt="kevinjiang019"/>
