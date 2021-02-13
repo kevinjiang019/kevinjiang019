@@ -52,14 +52,6 @@ if __name__ == "__main__":
 
 
 </details>  
-<summary>Music.py</summary>
-
-  <!---
-  | Command | Description |
-| --- | --- |
-| [Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Python-blue">|
-| ... | ... |
-  --->
 
 | What I'm listening to!                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------ |
