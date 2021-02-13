@@ -14,7 +14,7 @@ pretty much anything in FinTech! On campus, I'm involved with the Columbia Daily
 money moves for the newspaper, or Columbia Quant Group, discussing financial algorithims and poker. 
 
 <details>
-<summary>About Me.py</summary>
+<summary>about_Me.py</summary>
   
   <!---
   | Command | Description |
@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
 </details> 
 <details>
-<summary>Music.py</summary>
+<summary>music.py</summary>
   
   <!---
   | Command | Description |
