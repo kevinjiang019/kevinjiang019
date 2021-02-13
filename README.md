@@ -100,7 +100,10 @@ if __name__ == "__main__":
 | [Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Python-blue">|
 | ... | ... |
   --->
-| [Complex Network Analysis @ CRIS Lab](https://github.com/rutvikrau21/IncomeInequalityGraphModel)
+  
+| Project | Description |
+| --- | --- |
+| [Complex Network Analysis @ CRIS Lab](https://github.com/rutvikrau21/IncomeInequalityGraphModel)| Research Intern at the CRIS lab studying income and wealth inequality
 
 </details> 
 -----
