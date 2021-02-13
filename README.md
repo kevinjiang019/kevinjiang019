@@ -1,4 +1,4 @@
-![image](https://github.com/kevinjiang019/kevinjiang019/blob/main/Hello%20world.png)
+![image](https://github.com/kevinjiang019/kevinjiang019/blob/master/Hello%20world.png)
 
 <p align="center">
 <a href="mailto:kfj2112@columbia.edu" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=kfj@columbia.edu" alt="kfj2112@columbia.edu"/></a>
@@ -50,9 +50,10 @@ if __name__ == "__main__":
     print("Thank you for learning a bit more about me!)
 ```
 
-</details>  
 
-| Now Playing                                                                                                                    |
+</details>  
+<summary>Music.py</summary>
+| What I'm listening to!                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://natemoo-re.kevinjiang019.vercel.app/now-playing?open"><img src="https://natemoo-re.kevinjiang019.vercel.app/now-playing" width="540" height="64"></a> |
 
@@ -60,7 +61,7 @@ if __name__ == "__main__":
 <table>
   <thead>
     <tr>
-      <th>Top Tracks</th>
+      <th>Top Songs</th>
     </tr>
   </thead>
   <tbody>
