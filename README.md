@@ -92,7 +92,7 @@ if __name__ == "__main__":
 </details>  
 
 <details>
-<summary>Current Projects & Updates.py</summary>
+<summary>projects+updates.py</summary>
   
   <!---
   | Command | Description |
