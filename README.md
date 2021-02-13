@@ -106,6 +106,7 @@ if __name__ == "__main__":
 | [Complex Network Analysis @ CRIS Lab](https://github.com/rutvikrau21/IncomeInequalityGraphModel)| Research Intern at the CRIS lab studying income and wealth inequality
 
 </details> 
+
 -----
 Credits: [Maarten Grootendors](https://github.com/MaartenGr) and [Nate Moore](https://github.com/natemoo-re)
 
