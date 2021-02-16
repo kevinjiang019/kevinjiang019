@@ -40,7 +40,7 @@ def getBio():
 <p align = "middle">
 <a href="https://github.com/kevinjiang019?tab=projects" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/kevinjiang019?tab=projects" alt="kevinjiang019"/>
 <a href="https://www.instagram.com/kevinjiang019/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kevinjiang019/" alt="kevinjiang019"/>
-<a href="https://www.facebook.com/kevin.jiang.980967" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/kevin.jiang.980967" alt="kevinjiang019"/></a>
+<a href="https://www.facebook.com/kevinfjiang/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/kevinfjiang/" alt="kevinjiang019"/></a>
 <a href="mailto:kevin.jiang016@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=kevin.jiang016@gmail.com" alt="kevin.jiang016@gmail.com"/></a>"
 
 
