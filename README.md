@@ -12,6 +12,7 @@ I'm a student at Columbia University, studying Econ-Math and Computer Science.
 My current research interests are complex networks, wealth inequality, and algorithimic trading,
 pretty much anything in FinTech! On campus, I'm involved with the Columbia Daily Spectator, making 
 money moves for the newspaper, or Columbia Quant Group, discussing financial algorithims and poker. 
+This GitHub is brand new and an ongoing work in progress! Thank you for visiting!
 
 <details>
 <summary>about_Me.py</summary>
@@ -33,7 +34,7 @@ def main():
 def getBio():
     PB.bio = {
         'Free time':              "You will often find me working on personal projects[below], playing poker, or exploring coffee shops of NYC",
-        'Coding Languages':       [Python, Java, R, Excel]
+        'Computer skills':        [Python, Java, R, Excel, PowerPoint]
         'Socials':                "Please Contact me via email so we can chat! \
 
 ``` 
