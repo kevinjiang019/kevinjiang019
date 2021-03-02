@@ -3,7 +3,7 @@
 <p align="center">
 <a href="mailto:kfj2112@columbia.edu" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=kfj@columbia.edu" alt="kfj2112@columbia.edu"/></a>
 <a href="https://www.linkedin.com/in/kevinfjiang/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinfjiang/" alt="kevinfjiang"/></a>
-<a href="https://columbiauniversity.zoom.us/j/2741510016?pwd=cDUwb0FqaHBoVGNFSUl6cG1QYkkwdz09" target="blank"><img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white&link=https://columbiauniversity.zoom.us/j/2741510016?pwd=cDUwb0FqaHBoVGNFSUl6cG1QYkkwdz09" alt="kevinjiang019"/></a>
+<a href="https://columbiauniversity.zoom.us/my/kevinfjiang" target="blank"><img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white&link=https://columbiauniversity.zoom.us/my/kevinfjiang" alt="kevinjiang019"/></a>
 
 </p>
 
