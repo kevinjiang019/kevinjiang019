@@ -109,8 +109,7 @@ if __name__ == "__main__":
 | --- | --- |
 | [Complex Network Analysis @ CRIS Lab](https://github.com/kevinjiang019/IncomeInequalityGraphModel)| Research Intern at the CRIS lab studying income and wealth inequality
 | [NBA Text Alert Project @ Personal](https://github.com/kevinjiang019/NBATextAlerts)| Alerts when a selected NBA player (Ben Simmons) performs a selected action (Make a 3)
-| [RegisRoar Pitchdeck @ DPI](https://drive.google.com/file/d/1-LmtbM0avaClkDp6dG3a_psUqBVfVJy0/view?usp=sharing)| A personalized Columbia course
-recommendation platform based on crowd-sourced data, user-specific interests, and aggregated reviews
+| [RegisRoar Pitchdeck @ DPI](https://drive.google.com/file/d/1-LmtbM0avaClkDp6dG3a_psUqBVfVJy0/view?usp=sharing)| A personalized Columbia course machine learning recommendation platform based on crowd-sourced data, user-specific interests, and aggregated reviews
 </details> 
 
 -----
