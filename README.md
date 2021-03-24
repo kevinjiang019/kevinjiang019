@@ -107,7 +107,7 @@ if __name__ == "__main__":
   
 | Project | Description |
 | --- | --- |
-| [Complex Network Analysis @ CRIS Lab](https://github.com/rutvikrau21/IncomeInequalityGraphModel)| Research Intern at the CRIS lab studying income and wealth inequality
+| [Complex Network Analysis @ CRIS Lab](https://github.com/kevinjiang019/IncomeInequalityGraphModel)| Research Intern at the CRIS lab studying income and wealth inequality
 
 </details> 
 
