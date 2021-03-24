@@ -108,7 +108,7 @@ if __name__ == "__main__":
 | Project | Description |
 | --- | --- |
 | [Complex Network Analysis @ CRIS Lab](https://github.com/kevinjiang019/IncomeInequalityGraphModel)| Research Intern at the CRIS lab studying income and wealth inequality
-
+| [NBA Text Alert Project @ Personal](https://github.com/kevinjiang019/NBATextAlerts)| Alerts when a selected NBA player (Ben Simmons) performs a selected action (Make a 3)
 </details> 
 
 -----
