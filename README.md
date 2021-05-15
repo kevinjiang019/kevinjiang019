@@ -8,10 +8,10 @@
 </p>
 
 
-I'm a student at Columbia University, studying Econ-Math and Computer Science. 
-My current research interests are complex networks, wealth inequality, and algorithimic trading,
-pretty much anything in FinTech! On campus, I'm involved with the Columbia Daily Spectator, making 
-money moves for the newspaper, or Columbia Quant Group, discussing financial algorithims and poker. 
+I'm a student at Columbia University, studying Finance and CS. 
+My current research interests are wealth inequality and algorithimic trading! 
+On campus, I'm involved with the Columbia Daily Spectator, analyzing markets to generate revenue for the paper, 
+or Columbia Quant Group, discussing financial algorithims and poker. 
 This GitHub is brand new and an ongoing work in progress! Thank you for visiting!
 
 <details>
