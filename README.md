@@ -7,13 +7,13 @@
 
 </p>
 
-
-I'm a student at Columbia University, studying Finance and CS. 
+I'm a student at Columbia University, studying Finance and CS with experience
+working in non-profits, NGOs, research, and startups.
 My current research interests are wealth inequality and algorithimic trading! 
 On campus, I'm involved with the Columbia Daily Spectator or Columbia Quant Group, 
-because I love making money, data, and poker. 
-Incoming Developer Intern @ (Coursicle)[(https://www.coursicle.com/)]
-This GitHub is brand new and an ongoing work in progress! Thank you for visiting!
+because I love making money, data projects, and poker. 
+Incoming Developer Intern @ [Coursicle](https://www.coursicle.com/).
+This GitHub is an ongoing work in progress! Thank you for visiting!
 
 <details>
 <summary>about_Me.py</summary>
@@ -27,15 +27,18 @@ This GitHub is brand new and an ongoing work in progress! Thank you for visiting
   
 
 ```python
-import personalBio as PB
+import casualPersonalBio as PB
 
 def main():
      print(getBio())
 
 def getBio():
     PB.bio = {
-        'Free time':              "You will often find me working on personal projects[below], playing poker, or exploring coffee shops of NYC",
-        'Computer skills':        [Python, Java, R, Excel, PowerPoint]
+        'Hobbiess':     "You will often find me working on personal projects[below], managing my stock portfolio, coding, hiking, or debating, playing poker/other games",
+        'Free time':              "On an ordinary day I can be found playing soccer on the lawn, exploring new coffee shops, watching/analyzing F1, tryinng to jam out on bass, going for walks in the city, or at Trivia Night!",
+        'Skills':                 {
+                                  "Proficient": [Python, Java, Excel, \Microsoft Office],
+                                  "Learning": [C++, SQL, AWS, ML]
         'Socials':                "Please Contact me via email so we can chat! \
 
 ``` 
@@ -97,7 +100,7 @@ if __name__ == "__main__":
 </details>  
 
 <details>
-<summary>projects+updates.py</summary>
+<summary>projects+updates.db</summary>
   
   <!---
   | Command | Description |
@@ -106,14 +109,20 @@ if __name__ == "__main__":
 | ... | ... |
   --->
   
-| Project | Description |
-| --- | --- |
-| [Complex Network Analysis @ CRIS Lab](https://github.com/kevinjiang019/IncomeInequalityGraphModel)| Research Intern at the CRIS lab studying income and wealth inequality
-| [NBA Text Alert Project](https://github.com/kevinjiang019/NBATextAlerts)| Alerts when a selected NBA player (Ben Simmons) performs a selected action (Make a 3)
-| [RegisRoar Pitchdeck @ Data Product Initiative CU](https://drive.google.com/file/d/1-LmtbM0avaClkDp6dG3a_psUqBVfVJy0/view?usp=sharing)| A personalized Columbia course machine learning recommendation platform based on crowd-sourced data, user-specific interests, and aggregated reviews
+| Project | Description | Date |
+| --- | --- | ---- |
+| [Complex Network Analysis @ CRIS Lab](https://github.com/kevinjiang019/IncomeInequalityGraphModel)| Research Intern at the CRIS lab studying mathematical network models and risk analysis [[Paper](https://docs.google.com/document/d/1-QzvYuMc5nrgq8PMzZ6FalBaqHegKqCk87_l52wONlo/edit)] | Jan '21-Jun '21
+| [NBA Text Alert Project](https://github.com/kevinjiang019/NBATextAlerts)| Alerts when a selected NBA player (Ben Simmons) performs a selected action (Make a 3) | April '21 |
+| [RegisRoar Pitchdeck @ Data Product Initiative CU](https://drive.google.com/file/d/1-LmtbM0avaClkDp6dG3a_psUqBVfVJy0/view?usp=sharing)| A personalized Columbia course machine learning recommendation platform based on crowd-sourced data, user-specific interests, and aggregated reviews | AY '20-21
+| [Coursicle](https://www.coursicle.com/)| A platform that makes course registration for students at over 900 colleges easier| Summer '21
 </details> 
 
------
-Credits: [Maarten Grootendors](https://github.com/MaartenGr) and [Nate Moore](https://github.com/natemoo-re)
 
-Last Edited on: 2/13/2021
+-----
+AUTHOR: Kevin F. Jiang
+
+CREDITS: [Maarten Grootendors](https://github.com/MaartenGr) and [Nate Moore](https://github.com/natemoo-re)
+
+CREATED: 2/15/21
+  
+LAST UPDATED: 5/25/21
