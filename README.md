@@ -9,10 +9,10 @@
 
 I'm a student at Columbia University, studying Finance and CS with experience
 working in non-profits, NGOs, research, and startups.
-My current research interests are wealth inequality and algorithimic trading! 
+Incoming Developer Intern @ [Coursicle](https://www.coursicle.com/).
+My current research interests are risk modeling and algorithimic trading! 
 On campus, I'm involved with the Columbia Daily Spectator or Columbia Quant Group, 
 because I love making money, data projects, and poker. 
-Incoming Developer Intern @ [Coursicle](https://www.coursicle.com/).
 This GitHub is an ongoing work in progress! Thank you for visiting!
 
 <details>
