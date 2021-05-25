@@ -10,7 +10,7 @@
 I'm a student at Columbia University, studying Finance and CS with experience
 working in non-profits, NGOs, research, and startups.
 Incoming Developer Intern @ [Coursicle](https://www.coursicle.com/).
-My current research interests are risk modeling and algorithimic trading! 
+My current research interests are risk modeling and algo trading! 
 On campus, I'm involved with the Columbia Daily Spectator or Columbia Quant Group, 
 because I love making money, data projects, and poker. 
 This GitHub is an ongoing work in progress! Thank you for visiting!
