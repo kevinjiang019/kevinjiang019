@@ -37,7 +37,7 @@ def getBio():
         'Hobbiess':     "You will often find me working on personal projects[below], managing my stock portfolio, coding, hiking, or debating, playing poker/other games",
         'Free time':              "On an ordinary day I can be found playing soccer on the lawn, exploring new coffee shops, watching/analyzing F1, tryinng to jam out on bass, going for walks in the city, or at Trivia Night!",
         'Skills':                 {
-                                  "Proficient": [Python, Java, Excel, \Microsoft Office],
+                                  "Proficient": [Python, Java, Excel, Microsoft Office],
                                   "Learning": [C++, SQL, AWS, ML]
         'Socials':                "Please Contact me via email so we can chat! \
 
