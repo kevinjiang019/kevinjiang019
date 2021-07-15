@@ -61,7 +61,7 @@ if __name__ == "__main__":
 
 </details> 
 <details>
-<summary>music.cpp</summary>
+<summary>music.md</summary>
   
   <!---
   | Command | Description |
