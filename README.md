@@ -37,8 +37,7 @@ def getBio():
         'Hobbiess':     "You will often find me working on personal projects[below], managing my stock portfolio, coding, hiking, or debating, playing poker/other games",
         'Free time':              "On an ordinary day I can be found playing soccer on the lawn, exploring new coffee shops, watching/analyzing F1, tryinng to jam out on bass, going for walks in the city, or at Trivia Night!",
         'Skills':                 {
-                                  "Proficient": [Python, C++, Java, SQL, Excel VBA, Microsoft Office],
-                                  "Familiar": [Git, HTML/CSS, AWS, ML]
+                                  "Proficient": [Python, C++, Java, HTML/CSS, SQL, Git, Bash, AWS, Excel VBA, Microsoft Office ]
         'Socials':                "Please Contact me via email so we can chat! \
 
 ``` 
@@ -61,7 +60,7 @@ if __name__ == "__main__":
 
 </details> 
 <details>
-<summary>music.html</summary>
+<summary>music.css</summary>
   
   <!---
   | Command | Description |
