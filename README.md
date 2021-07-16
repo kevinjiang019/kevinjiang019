@@ -60,7 +60,7 @@ if __name__ == "__main__":
 
 </details> 
 <details>
-<summary>music.css</summary>
+<summary>music.html</summary>
   
   <!---
   | Command | Description |
